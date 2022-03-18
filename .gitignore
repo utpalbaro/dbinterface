@@ -1,0 +1,16 @@
+*
+!*/
+!*.*
+!Makefile
+.vscode/
+lib/
+out/
+test/
+*.project
+*.workspace
+*.o
+*.exe
+*.d
+*.a
+*.
+*.hdf
